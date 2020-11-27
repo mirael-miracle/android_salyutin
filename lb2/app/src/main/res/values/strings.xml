@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Состав рок-групп</string>
+    <string name="btn_text">Показать состав</string>
+    <string name="default_text">Список рок группы</string>
+
+    <string name="btn_send">Отправить сообщение</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="grp_number_txt">Назв. группы:</string>
+    <string name="faculty_txt">Жанр:</string>
+    <string name="btn_ok_txt">OK</string>
+    <string name="edu_level_txt">Вид рока:</string>
+    <string name="edu_level_bachelor_txt">death metal</string>
+    <string name="edu_level_master_txt">pop metal</string>
+
+    <string name="additional_flg_txt">Доп сведения:</string>
+    <string name="contract_flg_txt">наличие тяжёлых песен</string>
+    <string name="privilege_flg_txt">наличие лёгких песен</string>
+    <string name="btn_groups_txt">Рок группы</string>
+    <string name="btn_share">Поделиться</string>
+</resources>
